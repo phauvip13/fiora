@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tracks</title>
-    <link>https://example.org/post/</link>
+    <link>https://phauvip13.github.io/fiora/post/</link>
     <description>Recent content in Posts on Tracks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Jan 2019 00:00:00 +0700</lastBuildDate>
     
-	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phauvip13.github.io/fiora/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DESOLATE</title>
-      <link>https://example.org/post/desolate/</link>
+      <link>https://phauvip13.github.io/fiora/post/desolate/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0700</pubDate>
       
-      <guid>https://example.org/post/desolate/</guid>
+      <guid>https://phauvip13.github.io/fiora/post/desolate/</guid>
       <description>Trong Desolate, người chơi sẽ đảm nhận vai trò của các Tình nguyện viên (Volunteers) – chưa từng một lần sử dụng vũ khí – và khám phá một địa điểm cô tịch đầy rẫy những hiểm nguy rình rập, với đủ mọi loại hình thái. Từ những con quái vật khát máu, lũ người điên loạn, cho đến các hiện tượng kỳ bí dị thường mang tính siêu nhiên và cả sự khắc nghiệt khôn cùng của thời tiết.</description>
     </item>
     
     <item>
       <title>Name of the work 1</title>
-      <link>https://example.org/post/sieuxe/</link>
+      <link>https://phauvip13.github.io/fiora/post/sieuxe/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/post/sieuxe/</guid>
+      <guid>https://phauvip13.github.io/fiora/post/sieuxe/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     
